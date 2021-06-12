@@ -4,17 +4,24 @@ This repository is part of the first project "Write a Data Scientist Blog Post" 
 
 ## Description of the project
 
-The goal is to choose a dataset, point out 3 main questions from a given dataset, and make a basic analysis to answer
+The goal is to choose a dataset, point out 3-5 main questions from a given dataset, and make a basic analysis to answer
 the raised questions. 
 This repository covers the technical part of the analysis. The communication of the results is part of a Medium Blog Post.
+
+The dataset used here is the **Seattle AirBnB Open Data dataset**, see the link below for details. This dataset cotains data about hosts and accommodations in Seattle that can be booked with AirBnB. In this project, we focus on the following questions:
+
+* What is the best location in the city to explore Seattle?
+* What is the best time to travel to Seattle?
+* Can we use the host's profile to see if we choose a good host?
+* Can we predict the price of an accommodation based on some key indicators that are important for you?
+
 
 ## About this repo
 
 This is a Python project. The used dataset is provided by kaggle, please
 follow the instructions below to get the data.
 
-This project consists of a main Jupyter Notebook and a Python file that
-contains helper functions for data cleaning, etc.
+This project consists of a single Jupyter Notebook.
 
 ## Dataset
 
