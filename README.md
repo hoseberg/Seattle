@@ -6,7 +6,7 @@ This repository is part of the first project "Write a Data Scientist Blog Post" 
 
 The goal is to choose a dataset, point out 3-5 main questions from a given dataset, and make a basic analysis to answer
 the raised questions. 
-This repository covers the technical part of the analysis. The communication of the results is part of a Medium Blog Post.
+This repository covers the technical part of the analysis. The communication of the results is part of a Medium Blog Post, see https://hoseberg.medium.com/i-pack-my-ml-and-go-to-seattle-594ab48791ed
 
 The dataset used here is the **Seattle AirBnB Open Data dataset**, see the link below for details. This dataset cotains data about hosts and accommodations in Seattle that can be booked with AirBnB. In this project, we focus on the following questions:
 
