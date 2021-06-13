@@ -27,7 +27,7 @@ This project consists of a single Jupyter Notebook.
 
 The dataset is available from kaggle, see the following link
 https://www.kaggle.com/airbnb/seattle
-To make use of the dataset, please go to the link, download and unzip the files right
+To make use of the dataset, the dataset has been downloaded and the .csv files are located right
 next to the Jupyter Notebook.
 
 Please check the link for the license of the dataset.
